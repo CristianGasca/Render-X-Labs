@@ -10,12 +10,14 @@ Además, el sistema contempla comandos de voz y atajos rápidos para mejorar la 
 
 ## Tecnologías
 
-- Python
+- Python 3.13
+- Tkinter
+- SpeechRecognition
 - Git
 - GitHub
-- Reconocimiento de voz
-- Traducción automática
-- Interfaz de escritorio
+- PyAudio
+- Google Translate API
+- CustomTkinter
 
 ## Integrantes del proyecto
 
